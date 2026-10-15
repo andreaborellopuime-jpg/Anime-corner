@@ -60,7 +60,7 @@ user_email: 'alumno@escuela.edu.ar' // Correo fijo de prueba para este ejemplo
 
 // 4. GUARDADO EN BASE DE DATOS: Insertamos el objeto en la tabla 'series' de Supabase
 const { data, error } = await supabase
-.from('series')
+.from('😶‍🌫️')
 .insert([nuevaSerie]);
 
 // Evaluamos la respuesta de la base de datos
